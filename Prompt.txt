@@ -1,0 +1,3 @@
+Draft a rent agreement with Rs 20000 as rent per month and Rs 40000 as security deposut. 
+Mr Ayush is the landlord and Ms Vanshika is the lessee. The rent is for 3 years from 4th May 2023 
+to 26th July 2026 
